@@ -6,7 +6,8 @@ export default function App() {
     <h1 className="">
       <BrowserRouter>
       <Navbar/>
-      <h1>oiouoiaf</h1>
+      <h1>jkhg</h1>
+      
       </BrowserRouter>
     </h1>
   )
