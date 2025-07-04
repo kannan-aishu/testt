@@ -7,6 +7,7 @@ export default function App() {
       <BrowserRouter>
       <Navbar/>
       <h1>jkhg</h1>
+      <h5>asf</h5>
       
       </BrowserRouter>
     </h1>
